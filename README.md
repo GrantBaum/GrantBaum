@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GrantBaum, a Frontend Developer from St. Louis. Currently working on many projects for @MyMICDS
+- 👋 Hi, I’m @GrantBaum, a Backend Developer from St. Louis. Currently working on many projects for @MyMICDS
 - 👀 I’m interested in all the things in my bio. READ MY BIO.
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on anything @MyMICDS
