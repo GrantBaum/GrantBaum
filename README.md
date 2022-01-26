@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @GrantBaum, a Backend Developer from St. Louis. Currently working on many projects for @MyMICDS
 - 👀 I’m interested in all the things in my bio. READ MY BIO.
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Angular Development
 - 💞️ I’m looking to collaborate on anything @MyMICDS
 - 📫 How to reach me:
-Discord SuperiorSalmon#3616
 Grant Baumstark on the @MyMICDS Slack
 gbaumstark@micds.org
 <!---
